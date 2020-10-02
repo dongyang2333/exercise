@@ -1,0 +1,7 @@
+1 create-react=app
+2 mkdir backend folder
+3 cd backend and npm init -y
+4 npm install express
+5 npm install mongoose && cors
+6 open another terminal  and cd exercise
+npm install bootstrap && react-router-dom
